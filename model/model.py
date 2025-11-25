@@ -14,6 +14,7 @@ class Model:
         """
         # TODO
 
+
     def get_num_edges(self):
         """
         Restituisce il numero di Tratte (edges) del grafo
